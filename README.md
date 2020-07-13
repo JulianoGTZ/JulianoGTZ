@@ -20,7 +20,8 @@ My name is Juliano Pereira Lima. I'm a Computer Scientist and I've been working 
 
 Currently I'm Software Engineer at [Nubank](https://nubank.com.br/en/) using Clojure and a lot of cool stuff. 
 
-I'm passionate about technology, Computer Science, Software Engineering, agile and how it changes the world every second, empowering people and making their lives better.
+I'm passionate about technology, Computer Science, Software Engineering, agile and how it changes the world every second, `empowering people and making their lives better.`
+
 Currently I'm focusing in Clojure, Functional Programming and Operations(*Docker, Kubernetes, CI/CD, AWS*) but I still enjoy programming with Javascript (Especially **React**) and .NET Core (**C#**).
 
 You can find me on:
