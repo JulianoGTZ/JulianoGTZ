@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 My name is Juliano Pereira Lima. I'm a Computer Scientist and I've been working as Software Developer since 2016 working with Frontend and Backend. 
 
-Currently I'm Software Engineer at [Nubank](https://nubank.com.br/en/) using Clojure and a lot of cool stuff like Kafka, Splunk, Microservices, Docker, Kubernetes, and amazing people. 
+Currently I'm Software Engineer at [Nubank](https://nubank.com.br/en/) using Clojure and a lot of cool stuff like Kafka, Splunk, Microservices, Docker, Kubernetes, and **amazing people**. 
 
 I'm passionate about technology, Computer Science, Software Engineering, agile and how it changes the world every second, `empowering people and making their lives better.`
 
