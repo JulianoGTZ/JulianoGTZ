@@ -23,7 +23,7 @@ Currently I'm Software Engineer at [Nubank](https://nubank.com.br/en/) using Clo
 I'm passionate about technology, Computer Science, Software Engineering, and how it changes the world every second, empowering people and making their lives better.
 Currently I'm focusing in Clojure, Functional Programming and Operations(*Docker, Kubernetes, CI/CD, AWS*) but I still enjoy programming with Javascript (Especially **React**) and .NET Core (**C#**).
 
-You can't find me on:
+You can find me on:
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/julianodgtz)](https://twitter.com/julianodgtz)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianopereiralima)](https://www.linkedin.com/in/julianopereiralima)
