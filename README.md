@@ -22,7 +22,7 @@ Currently I'm Software Engineer at [Nubank](https://nubank.com.br/en/) using Clo
 
 I'm passionate about technology, Computer Science, Software Engineering, agile and how it changes the world every second, `empowering people and making their lives better.`
 
-Currently I'm focusing in Clojure, Functional Programming and Operations(*Docker, Kubernetes, CI/CD, AWS*) but I still enjoy programming with Javascript (Especially **React**) and .NET Core (**C#**).
+Currently I'm focusing in Clojure, Functional Programming and Operations(*Docker, Kubernetes, CI/CD, AWS*) but I still enjoy programming with Javascript(Especially in **React** applications) and .NET Core(**C#**).
 
 You can find me on:
 
