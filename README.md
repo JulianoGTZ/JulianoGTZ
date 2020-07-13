@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-My name is Juliano Pereira Lima. I'm a Computer Scientist and I've been working as Software Developer since 2016(**FrontEnd** and **Backend**). 
+My name is Juliano Pereira Lima. I'm a Computer Scientist and I've been working as Software Developer since 2016 working with Frontend And Backend. 
 
 Currently I'm Software Engineer at [Nubank](https://nubank.com.br/en/) using Clojure and a lot of cool stuff. 
 
