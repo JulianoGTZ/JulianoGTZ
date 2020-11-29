@@ -28,3 +28,5 @@ You can find me on:
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/julianodgtz)](https://twitter.com/julianodgtz)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/julianopereiralima)](https://www.linkedin.com/in/julianopereiralima)
+
+[![Juliano's github stats](https://github-readme-stats.vercel.app/api?username=julianogtz&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
